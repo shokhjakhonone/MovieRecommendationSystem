@@ -1,0 +1,5 @@
+        Python 3.7 
+        PyTorch
+        pandas
+        Flask
+        streamlit
